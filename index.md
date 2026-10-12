@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+David Ruane: Welcome to my blog!
 ---
